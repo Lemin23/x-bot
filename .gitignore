@@ -1,0 +1,19 @@
+# Node.js dependencies  
+node_modules/  
+
+# Ignore config files containing sensitive information  
+config/
+
+# Logs  
+logs/  
+*.log  
+
+# Environment variables  
+.env  
+
+# MacOS system files  
+.DS_Store  
+
+# Build files  
+dist/  
+build/
